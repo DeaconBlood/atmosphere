@@ -56,7 +56,7 @@
 -Menù Tesla 1.0.7
 -OVL Menù 1.2.3
 -Overlays Emuiibo 1.1.0
--Overlays EdiZon 1.0.8
+-Overlays EdiZon 1.0.9
 -TegraExplorer 4.2.0
 -NSP Forwared:DBI-HBMENU-JKSV-Awoo Installer-Linkalho-Tinfoil Installer-Goldleaf
 
