@@ -1,4 +1,4 @@
-                                 Compatible
+                                 
 (Software-Sx Core-Sx Lite-Hwfly-Picofly)
 -FW 2.74 Picofly
 -Atmosphere 1.8.0
