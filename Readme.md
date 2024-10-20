@@ -1,0 +1,58 @@
+(Software-Sx Core-Sx Lite-Hwfly-Picofly)
+-FW 2.74 Picofly
+-Atmosphere 1.8.0
+-Hekate 6.2.2
+-Mission Control 0.12.0 (All Firmware)
+-Exosphere (CFW SYSNAND-CFW EMUNAND)
+-System Patches for Themes (All Firmware)
+-Dns Lock (CFW SYSNAND-CFW EMUNAND)
+-Awoo Installer 1.3.5
+-Tinfoil 18.0
+-Tinwoo 1.0.24
+-Appstore 2.3.2
+-AtmoXL Title Installer 1.7.3
+-Avatool 2.1.0
+-Battery Desync_Fix 1.5.0
+-Browser Web 0.4.0
+-Checkpoint 3.8.0
+-Chiaki 2.2.0
+-Daybreak 1.0.0
+-DBI Installer 658
+-Duckstation 1.0.0
+-EdiZon 3.1.0
+-Emuiibo 1.1.1 (820) Amiibo
+-FTPD 3.1.0
+-Goldleaf 1.0.0
+-Haze 1.0.0
+-Haku 33 7.0 (All Switch)
+-Hekate Toolbox 4.0.3
+-JKSV 08.06.2024
+-Linkalho 2.0.1
+-Lockpick 1.9.13
+-MigSwitch Dumptool 0.0.1
+-NXMTP 0.1.5
+-NSO Icon Tool 0.4.2
+-NX Dumptool "MIG SWITCH"
+-NX Shell 2.1.1
+-NX Themes Installer 4.7.1
+-Picofly Toolbox 0.2
+-PPSSPP 1.17.1
+-Retroarch 1.19.1
+-Switch 90 DNS Tester 1.0.3
+-Switch Cheats Updater 1.2.1
+-Switch Time 0.1.5
+-UpComingSwitchGames 1.0
+-Sys Botbase 24
+-Sys CLK 2.0.1
+-Quick NTP 1.2.8
+-Sys Module OVL 1.3.1
+-Sys Module Status Monitor 1.1.4
+-Sys FPS Locker 2.0.3
+-Sys Module SaltyNX 0.9.4
+-Themezer 2.0.0
+-Menù Tesla 1.0.7
+-OVL Menù 1.2.3
+-Overlays Emuiibo 1.1.0
+-Overlays EdiZon 1.0.8
+-TegraExplorer 4.2.0
+-NSP Forwared:DBI-HBMENU-JKSV-Awoo Installer-Linkalho-Tinfoil Installer-Goldleaf
