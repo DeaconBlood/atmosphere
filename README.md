@@ -1,1 +1,1 @@
-CFW compatibile ultimo FW 19.0.0
+CFW compatibile ultimo FW 19.0.1
